@@ -14,7 +14,11 @@
 	<url>https://www.xuxueli.com/</url>
 
 	<dependencies>
-
+		<dependency>
+			<groupId>javax.annotation</groupId>
+			<artifactId>jsr250-api</artifactId>
+			<version>1.0</version>
+		</dependency>
 		<!-- xxl-rpc-core -->
 		<dependency>
 			<groupId>com.xuxueli</groupId>
